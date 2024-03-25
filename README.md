@@ -1,3 +1,4 @@
+# Learner Data Processing Application
 I designed this app to process learner submission data for a specific course and assignment group. It calculates metrics such as average scores and individual assignment scores for each learner. It also takes into account data integrity by handling scenarios where scores exceed the maximum points possible for an assignment.
 ## Key Features
 
